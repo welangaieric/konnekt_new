@@ -404,7 +404,7 @@ button.cta_btn:hover {
     
 }
 .user-icon{
-  width: 10%;
+  width: 20%;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -413,7 +413,7 @@ button.cta_btn:hover {
   color:var(--black);
 }
 .username{
-  width: 90% !important;
+  width: 80% !important;
     /* background-color: red !important; */
     color: var(--white);
     text-transform: uppercase;
